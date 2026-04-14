@@ -1,0 +1,69 @@
+1 - What is Networking?
+
+Things that sparked my interest:
+
+. MAC (Media Access Control)
+. IPv4
+. IPv6
+
+What I want to learn more about:
+
+. Internet protocols
+. Networking as a whole
+
+What I found a bit confusing:
+
+Nothing (yay)
+
+
+2 - Intro To LAN
+
+What is a topology?
+
+It’s how devices are connected inside a network so they can send data to each other. Usually this involves switches, hubs, and cables, but the structure differs depending on the topology.
+
+- Star Topology
+
+A switch or hub sits in the middle, and all devices connect to it.
+
+Good way of organizing a network
+Easy to manage and troubleshoot because each device is separate
+If one device fails, the rest still works
+
+- Bus Topology
+
+A main backbone cable, and devices connect to it.
+
+Data is sent through the main cable to all devices
+Only the correct device accepts the data
+If something happens to the main cable, the whole network goes down
+
+- Ring Topology
+
+Devices are connected in a loop (ring), and data travels through each device until it reaches the intended one.
+
+No central switch or hub
+Data flows in one direction
+Each device passes the data along
+If a device wants to send its own data, it sends it into the ring
+If one device or connection breaks, it can affect the whole network
+
+. Switches
+
+This is a very interesting topic and I want to learn more about it.
+
+A switch is a dedicated device inside a network that allows devices like PCs, printers, and phones to connect.
+
+But more importantly:
+
+It sends data to the correct device using MAC addresses
+
+It doesn’t just connect devices, it actually decides where data should go
+
+Observations : 
+
+Networking is starting to make sense as “how computers talk to each other”
+
+There are multiple ways to structure a network, each with pros and cons
+
+Switches seem like a key component worth going deeper into

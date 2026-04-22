@@ -1,4 +1,4 @@
-# Linus terminal training
+# Linux terminal training
 I practiced how the terminal is handled in WSL today.
 
 ## Commands

@@ -6,7 +6,7 @@ I practiced how the terminal is handled in WSL today.
 
 .whoami : This command simply tells you the user. 
 
-.ls -la : This command tells you the information about the files and folders in your directory.
+.ls -la : This command tells you in-depth information and permissions about the files and folders in your directory.
 
 .unname -a : This command is abit more complex becasue it tells you the following : 
 (Kernel, Kernel build date, Build number,SMP for multi core tasks, Architecture) 

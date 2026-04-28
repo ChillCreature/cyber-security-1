@@ -21,7 +21,7 @@ I practiced how the terminal is handled in WSL today.
 
 .rm : I used this command to delete file3.txt as part of my file managing practice.
 
-.mv : I used this command on copy of file1.txt to create moved_file.txt.
+.mv : I used this command on file1.txt to rename it to moved_file.txt.
 
 * Observation : I'm yet to know what (mv) does. But i will be doing research ASAP. 
 
